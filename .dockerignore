@@ -1,0 +1,53 @@
+# Git
+.git
+.gitignore
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm and Python
+.idea/
+src/__pycache__/
+
+# Generated folders and data that are parts of the benchmark
+config/
+results/
+out.mc
+data.out
+
+# results of d-dknnife
+out.txt
+out.csv
+ddnnf/dsharp/tmp
+
+# data that is not allowed to publish
+cnf/confidential
+ddnnf/c2d/confidential
+ddnnf/dsharp/confidential
+ddnnf/d4_old/confidential
+ddnnf/d4_new/confidential
+ddnnf/dsharp_p/confidential
+
+# to make the image smaller
+# cnf
+# ddnnf/c2d
+# ddnnf/dsharp
+# ddnnf/d4_old
+# ddnnf/d4_new
+# ddnnf/dsharp_p
+
+# tools
+tools/
+
+stuff
+clean_results/
