@@ -1,5 +1,5 @@
-# Empirical Evaluation on Exploitation of d-DNNFs
-Replication package for the evaluation of "Exploiting d-DNNFs for Efficient Feature-Model Counting"
+# Empirical Evaluation on Reuse of d-DNNFs
+Replication package for the evaluation of "Reuse d-DNNFs for Efficient Feature-Model Counting"
 
 ## General information
 Important note: Due to githubs 100Mb per file limit, not all d-DNNFs are part of the repository, but they are included in the docker image we provide. If you want to run the benchmark without using the image, you have to first run the compiler. Additionally, you have to run the preprocessing run configuration if you want to run dsharp related configurations.
